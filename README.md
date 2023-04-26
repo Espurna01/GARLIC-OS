@@ -1,5 +1,5 @@
 # GARLIC-OS
-Operating System for nintendo DS with guidance of Santiago Romani:
+Operating System for nintendo DS with guidance of Santiago Romani:\n
   • ProgM: Ainhoa Garcia Linares 
     (Memoria)
   • ProgP: Mireia Gasco Agorreta
