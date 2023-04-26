@@ -1,0 +1,1 @@
+<Project name="dotp"><MagicFolder excludeFiles="*.pnproj;*.pnps;*.bak;*.tmp" excludeFolders="CVS;.svn;.hg;.git" filter="*" name="DOTP" path=""><File path="dotp.c"></File><File path="DOTP.elf"></File><File path="DOTP.o"></File><File path="DOTP.s"></File><File path="Makefile"></File></MagicFolder></Project>
